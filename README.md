@@ -1,9 +1,9 @@
-# airbnb-nyc-tableau-dashboardd
+# airbnb-nyc-tableau-dashboard
 ## Live Dashboard
 
 ## Live Project Links
 
-- Project Website: https://ayeshafaheem72.github.io/airbnb-nyc-tableau-dashboardd/
+- Project Website: https://ayeshafaheem72.github.io/airbnb-nyc-tableau-dashboard/
 - Tableau Public Dashboard: https://public.tableau.com/views/NYCAirbnbInteractiveDashboard_17664473369880/Dashboard1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 - 
 
